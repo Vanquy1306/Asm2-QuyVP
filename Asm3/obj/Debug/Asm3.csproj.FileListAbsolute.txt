@@ -1,0 +1,13 @@
+D:\Asm3\Asm3\bin\Debug\Asm3.exe.config
+D:\Asm3\Asm3\bin\Debug\Asm3.exe
+D:\Asm3\Asm3\bin\Debug\Asm3.pdb
+D:\Asm3\Asm3\obj\Debug\Asm3.csprojAssemblyReference.cache
+D:\Asm3\Asm3\obj\Debug\Asm3.Form1.resources
+D:\Asm3\Asm3\obj\Debug\Asm3.Form2.resources
+D:\Asm3\Asm3\obj\Debug\Asm3.Form3.resources
+D:\Asm3\Asm3\obj\Debug\Asm3.Form4.resources
+D:\Asm3\Asm3\obj\Debug\Asm3.Properties.Resources.resources
+D:\Asm3\Asm3\obj\Debug\Asm3.csproj.GenerateResource.cache
+D:\Asm3\Asm3\obj\Debug\Asm3.csproj.CoreCompileInputs.cache
+D:\Asm3\Asm3\obj\Debug\Asm3.exe
+D:\Asm3\Asm3\obj\Debug\Asm3.pdb
